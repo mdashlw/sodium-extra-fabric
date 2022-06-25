@@ -191,7 +191,6 @@ public class SodiumExtraGameOptions {
         public OverlayCorner overlayCorner;
         public boolean showFps;
         public boolean showFPSExtended;
-        public boolean showCoords;
         public boolean reduceResolutionOnMac;
         public boolean useAdaptiveSync;
         public int cloudHeight;
@@ -203,7 +202,6 @@ public class SodiumExtraGameOptions {
             this.overlayCorner = OverlayCorner.TOP_LEFT;
             this.showFps = false;
             this.showFPSExtended = true;
-            this.showCoords = false;
             this.reduceResolutionOnMac = true;
             this.useAdaptiveSync = false;
             this.cloudHeight = 192;

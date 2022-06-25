@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "sodium-extra",
+  "id": "sodium-extra-no-coords",
   "version": "${version}",
-  "name": "Sodium Extra",
+  "name": "Sodium Extra (no coordinates)",
   "description": "Features that shouldn't be in Sodium.",
   "authors": [
     "FlashyReese"
